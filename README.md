@@ -6,18 +6,6 @@ Airbnb is an **American company** that operates an online marketplace for lodgin
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
 
 
-# IPL 2022  
-
-![ipl-cricket](https://user-images.githubusercontent.com/106439762/177098849-6deb72ac-f83e-41c7-96e3-d58cf32b150c.gif)
-
-
-Data Analysis with IPL match-by-match dataset of season 2022.
-
-Dataset has been downloaded from Kaggle and it can be found in Data folder in my reprository.
-
-The dataset contains 3 dataset files i.e:- IPL_Matches_2022.csv , matches.csv and IPL_Ball_by_Ball_2022.csv. These files used for IPL 2022 analysis.
-
-
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
     o	Highest scorer batter in in overall IPL 2022
 
