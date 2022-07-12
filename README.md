@@ -1,6 +1,6 @@
 # Airbnb-Dashboard
-Created a dashboard of Airbnb (Vacation Rental Company) and doing analysis using tableau.
-
+Airbnb is an **American company** that operates an online marketplace for lodging, primarily homestays for vacation rentals,and tourism activities.<br>
+In this repository I analyses the data from different aspects and present my analysis in dashboard which is made by using **tableau public**.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
