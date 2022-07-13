@@ -42,20 +42,15 @@ Must begin with a pandas DataFrame containing 'wide' data where:
 
 The data below is an example of properly formatted data.
 
-![d](https://user-images.githubusercontent.com/106439762/177095674-07a23179-aaa8-4c97-88bf-a5de4404c8c2.PNG)
+![4](https://user-images.githubusercontent.com/106439762/178805409-2f3975f1-ddcc-4de1-8331-813984995b08.PNG)
 
-![b](https://user-images.githubusercontent.com/106439762/177095820-b6423920-645c-401f-a6b2-fafd40e9953a.PNG)
-
-![m](https://user-images.githubusercontent.com/106439762/177095832-d727aa7e-7268-490d-b6d0-65e86ff40eef.PNG)
 
    
 
+
 ## Screenshots
-![download](https://user-images.githubusercontent.com/106439762/177097283-465d934c-082c-454d-903f-6cc96d5ec2ff.png)
 
-![download (2)](https://user-images.githubusercontent.com/106439762/177097298-5c53ac11-cf07-4f66-8135-5ace9cb9ea31.png)
-
-![download (1)](https://user-images.githubusercontent.com/106439762/177097342-3b6438d0-b5d9-44da-8763-305ed12238d7.png)
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/106439762/178805795-fe41533c-e13c-4a04-a6d4-85ee5851b343.png)
 
 
 ## 🚀 About Me
