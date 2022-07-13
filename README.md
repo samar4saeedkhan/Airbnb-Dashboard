@@ -57,7 +57,7 @@ The data below is an example of properly formatted data.
 I'm an aspiring data analyst...
 
 
-## 🔗 Links
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarsaeedkhan/)
 
 
