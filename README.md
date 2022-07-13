@@ -36,7 +36,7 @@ Airbnb is an **American company** that operates an online marketplace for lodgin
 
 Must begin with a pandas DataFrame containing 'wide' data where:
 
-    1.Every sheet of tablue represent different stats.
+    1.Every sheet of tableau represent different stats.
 
     2.Each column holds the value for a particular category.
 
