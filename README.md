@@ -36,9 +36,9 @@ Airbnb is an **American company** that operates an online marketplace for lodgin
 
 Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
 
-    1.Every sheet of tableau represent different stats.
+    1.Every sheet of tableau present different stats.
 
-    2.Each column holds the value for a particular category.
+    2.Each column of dataset holds the value for a particular category.
 
 The data below is an example of properly formatted data.
 
