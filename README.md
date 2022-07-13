@@ -24,11 +24,9 @@ Airbnb is an **American company** that operates an online marketplace for lodgin
 
 
 ## Prior Knowledge
+![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
+![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg)
 
-![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
-![pyhton-numpy](https://user-images.githubusercontent.com/106439762/177095283-a5bb76ea-bcf6-42bb-a189-cd902233e452.svg)
-![pyhton-seaborn](https://user-images.githubusercontent.com/106439762/177095305-9412535b-1250-4be8-8850-73a852e13423.svg)
-![pyhton-matplotlib](https://user-images.githubusercontent.com/106439762/177095386-81d9ee3f-6b67-4bc3-83f7-30595924a399.svg)
 
 
 ## Quick Start
