@@ -31,7 +31,7 @@ Airbnb is an **American company** that operates an online marketplace for lodgin
 
 
 <br>
-<br>
+
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
 
 Must begin with a pandas DataFrame containing 'wide' data where:
